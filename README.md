@@ -12,7 +12,7 @@ To build a regression model that accurately predicts a player’s **normalized f
 ## 📁 Dataset
 
 - **File:** `pubg.csv`
-- **Source:** Kaggle / PUBG game logs
+- **Source:** https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset?select=PUBG_Game_Prediction_data.csv
 - **Target:** `winPlacePerc` — normalized player rank (0 = last place, 1 = winner)
 - **Features include:**
   - Combat: `kills`, `damageDealt`, `headshotKills`, `weaponsAcquired`

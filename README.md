@@ -1,10 +1,7 @@
 # 🏆 Predicting PUBG Win Placement Using Machine Learning
+![.](media/giphy.gif)
 
-This project focuses on predicting the final placement percentage (`winPlacePerc`) of players in PUBG (PlayerUnknown’s Battlegrounds) using in-game statistics. The task was tackled through a full machine learning pipeline — data cleaning, feature engineering, exploratory data analysis (EDA), and predictive modeling.
 
-![PUBG](attachment:PUBG-Featured-image.png)
-
----
 
 ## 📌 Objective
 

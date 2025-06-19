@@ -138,14 +138,6 @@ The optimized model maintained similar performance metrics (R² = 0.9227, RMSE =
 4. **Survival Balance**: The optimal strategy combines aggressive play (kills) with smart movement and positioning
 5. **Equipment Management**: Weapon acquisition shows moderate importance, indicating that having the right tools matters, but less than how they're used
 
-## 🚀 Future Enhancements
-
-- **Real-time Prediction**: Implement a system for real-time performance prediction during matches
-- **Map-specific Analysis**: Develop models tailored to different maps and their unique terrain features
-- **Team Dynamics**: Extend analysis to team-based performance in duo and squad modes
-- **Temporal Analysis**: Study how player performance evolves over time and game updates
-- **Deep Learning Approaches**: Explore neural network models for potentially higher accuracy
-
 ## 📝 Conclusion
 
 This PUBG data analysis project successfully identified key factors that influence player performance and match outcomes. The high R² scores across multiple models demonstrate that player placement can be accurately predicted from in-game metrics. The findings provide valuable insights for players looking to improve their gameplay strategy, emphasizing the importance of balanced combat effectiveness and strategic movement.
